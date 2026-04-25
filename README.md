@@ -40,9 +40,3 @@ I’m particularly interested in how intelligent systems reshape developer exper
 Astrophotography is where engineering meets wonder for me. I enjoy capturing deep-sky objects and continuously refining both the technical and creative sides of the process.
 
 Outside of that: gaming 🎮, piano 🎹, fitness 🏋️, and life as a mom of two 👩‍👧‍👦
-
----
-
-## Find me around the internet
-
-[LinkedIn](https://www.linkedin.com/in/cammarataandrea)
