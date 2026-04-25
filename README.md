@@ -9,7 +9,7 @@ I work hands-on across the full lifecycle, from architecture and system design t
 I started early, releasing an open-source 3D project before turning 18.
 Over the years, I’ve worked across a wide range of companies in Italy and founded two independent ventures, collaborating with clients across Europe and the US.
 
-I later contributed to enterprise projects across EMEA and the US, working with organizations such as Intel (Tizen), NATO, Deloitte, Time Warner Cable, AT&T, and Thales as part of the @sencha
+I later contributed to enterprise projects across EMEA and the US, working with organizations such as Intel (Tizen), NATO, Deloitte, Time Warner Cable, AT&T, and Thales as part of the [@sencha](https://www.github.com/sencha)
  Professional Services team.
 
 I write and build under the name Emily Winters. Being a transgender woman is part of my story, and authenticity matters deeply to me. 🏳️‍⚧️ 🏳️‍🌈
