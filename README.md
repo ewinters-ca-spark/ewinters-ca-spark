@@ -1,79 +1,44 @@
 # Hi, I'm Emily 👋
 
-Software Engineer · Technical Leader
+Senior Software Engineer · Technical Leader
 
-I’m a software engineer with 20+ years of professional experience building scalable, high-impact products.
+Based in Italy, I’ve spent 20+ years building software across desktop, web, and mobile platforms. In recent years, I’ve focused on AI-driven systems and integrations, applying them to real-world products where they can create tangible impact.
 
-I started early, releasing an open-source 3D project before turning 18. Since then, I’ve grown into a hands-on engineer who enjoys working across the full lifecycle, from architecture and system design to implementation and delivery.
+I work hands-on across the full lifecycle, from architecture and system design to implementation and delivery, turning complex ideas into scalable, production-ready solutions.
 
----
+I started early, releasing an open-source 3D project before turning 18. Since then, I’ve worked with organizations across EMEA and the US including Intel (Tizen), NATO, Deloitte, Time Warner Cable, AT&T, and Thales.
 
-## 🚀 What I Do
-
-- Design and build modern web applications
-- Lead engineering efforts and technical decisions
-- Develop AI-powered features and systems
-- Turn complex ideas into practical, production-ready solutions
+I write and build under the name Emily Winters. Being a transgender woman is part of my story, and authenticity matters deeply to me. 🏳️‍⚧️ 🏳️‍🌈
 
 ---
 
-## 🧠 Current Focus
+## What I'm passionate about
 
-- AI-driven applications and real-time assistants  
-- Tool-based architectures and intelligent systems  
-- Scalable, multi-tenant platforms  
-- Building **Astropholis** 🌠
+I focus on making AI practical. I build systems where AI is not just an interface, but an active part of the product, capable of reasoning, interacting with tools, and driving real workflows.
 
----
+My work today revolves around real-time assistants, tool-based architectures, and multi-tenant platforms that scale. I enjoy bridging engineering, product thinking, and business impact.
 
-## 🌠 Astropholis
-
-Astropholis is a platform for astrophotographers focused on:
-
-- Equipment management  
-- Mission planning  
-- Session tracking and insights  
-- AI-assisted workflows  
-
-The idea is simple: treat every observation like a mission you can learn from and improve over time.
+I’m particularly interested in how intelligent systems reshape developer experience and how teams can adopt them without adding unnecessary complexity.
 
 ---
 
-## 🛠 Tech & Approach
+## Current focus
 
-- Strong focus on JavaScript and modern web architectures  
-- Experience across full-stack development and system design  
-- Clean, maintainable, production-ready code  
-- Practical use of AI in real-world applications  
-
----
-
-## 🧩 How I Work
-
-- I prefer simple, clear solutions over clever ones  
-- I stay close to the code, even when leading  
-- I focus on systems, not just features  
-- I like building things that still make sense months later  
+- AI-powered applications and real-time assistants  
+- Tool-based and agent-driven architectures  
+- Scalable SaaS and multi-tenant platforms  
+- Building **Astropholis** 🌠  
 
 ---
 
-## 🌍 Experience
+## When I step away from the keyboard
 
-I’ve worked across enterprise environments in EMEA and the US, collaborating with organizations such as:
+Astrophotography is where engineering meets wonder for me. I enjoy capturing deep-sky objects and continuously refining both the technical and creative sides of the process.
 
-Intel (Tizen) · NATO · Deloitte · Time Warner Cable · AT&T · Thales
-
----
-
-## 📈 Beyond Work
-
-- 🌌 Astrophotography  
-- 🎮 Gaming  
-- 🎹 Piano  
-- 🏋️ Fitness  
+Outside of that: gaming 🎮, piano 🎹, fitness 🏋️, and life as a mom of two 👩‍👧‍👦
 
 ---
 
-## 🤝 Let’s Connect
+## Find me around the internet
 
-I enjoy working on products where engineering, product thinking, and AI meet to create something genuinely useful.
+[LinkedIn](https://www.linkedin.com/in/cammarataandrea)
