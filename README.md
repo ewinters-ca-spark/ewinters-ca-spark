@@ -1,8 +1,12 @@
+
+
+![Banner](resources/banner.gif)
+
 # Hi, I'm Emily 👋
 
 Senior Software Engineer · Technical Leader
 
-Based in Italy, I’ve spent 20+ years building software across desktop, web, and mobile platforms. In recent years, I’ve focused on AI-driven systems and integrations, applying them to real-world products where they can create tangible impact.
+Based in Italy, I’ve spent nearly 30 years building software across desktop, web, and mobile platforms. In recent years, I’ve focused on AI-driven systems and integrations, applying them to real-world products where they can create tangible impact.
 
 I work hands-on across the full lifecycle, from architecture and system design to implementation and delivery, turning complex ideas into scalable, production-ready solutions.
 
