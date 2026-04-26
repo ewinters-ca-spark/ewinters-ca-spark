@@ -14,6 +14,15 @@ I later contributed to enterprise projects across EMEA and the US, working with 
 
 I write and build under the name Emily Winters. Being a transgender woman is part of my story, and authenticity matters deeply to me. 🏳️‍⚧️ 🏳️‍🌈
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ewinters-ca-spark/ewinters-ca-spark/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ewinters-ca-spark/ewinters-ca-spark/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/ewinters-ca-spark/ewinters-ca-spark/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## What I'm passionate about
