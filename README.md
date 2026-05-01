@@ -6,6 +6,10 @@
 
 Senior Software Engineer · Technical Leader
 
+Formerly known as **Andrea Cammarata**
+
+🐙Former GitHub → https://github.com/acammarata-ca-spark
+
 Based in Italy, I’ve spent nearly 30 years building software across desktop, web, and mobile platforms. In recent years, I’ve focused on AI-driven systems and integrations, applying them to real-world products where they can create tangible impact.
 
 I work hands-on across the full lifecycle, from architecture and system design to implementation and delivery, turning complex ideas into scalable, production-ready solutions.
@@ -16,7 +20,7 @@ Over the years, I’ve worked across a wide range of companies in Italy and foun
 I later contributed to enterprise projects across EMEA and the US, working with organizations such as Intel (Tizen), NATO, Deloitte, Time Warner Cable, AT&T, and Thales as part of the [@sencha](https://www.github.com/sencha)
  Professional Services team.
 
-I write and build under the name Emily Winters. Being a transgender woman is part of my story, and authenticity matters deeply to me. 🏳️‍⚧️ 🏳️‍🌈
+I write and build under the name Emily Winters (previously Andrea Cammarata). Being a transgender woman is part of my story, and authenticity matters deeply to me. 🏳️‍⚧️ 🏳️‍🌈
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
